@@ -5,11 +5,11 @@
 
 _INSTALLATION:_
 
-- Download the .dmg
-- Run the file
-- Copy the .app package into the Applications directory
+- Download the .dmg file
+- Open it
+- Copy the .app package into your mac's Applications directory
 - Run macUNIS
-- Click the widget, and hit "Start"
+- Click the app's widget, and hit "Start"
 - Enter your mac's Admin password, and enjoy!
 
 
