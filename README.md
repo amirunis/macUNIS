@@ -29,7 +29,8 @@ _FEATURES:_
 <br>
 <br>
 <br>
-<img width="264" alt="image" src="https://github.com/amirunis/macUNIS/assets/77440128/e004108c-0f07-4b74-88f3-915846b05f63">
+<img width="238" alt="image" src="https://github.com/amirunis/macUNIS/assets/77440128/187def17-1098-4878-beb5-f041f578ccf3">
+
 
 <br>
 <br>
