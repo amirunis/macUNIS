@@ -20,6 +20,7 @@ _FEATURES:_
 - Fan speed in RPM
 - Network inbound and outbound traffic packets per second
 - RAM usage percentage
+- You may toggle any of the above to not show in menu bar
 
 
 <br>
