@@ -34,5 +34,11 @@ _FEATURES:_
 <br>
 <br>
 <br>
+<img width="238" alt="image" src="https://github.com/amirunis/macUNIS/assets/77440128/c764b420-66fb-4034-ab2b-9e17a588f867">
+
+
+<br>
+<br>
+<br>
 <img width="292" alt="image" src="https://github.com/amirunis/macUNIS/assets/77440128/017a136f-6067-4620-93a1-6b9ef9efb7c9">
 
