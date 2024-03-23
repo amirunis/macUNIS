@@ -22,6 +22,7 @@ _FEATURES:_
 
 _INSTALLATION:_
 
+- This works on macOS devices with Intel & M-chips.
 - Download the .dmg file
 - Open it
 - Copy the .app package into your mac's Applications directory
