@@ -20,12 +20,13 @@ _FEATURES:_
 - Fan speed in RPM
 - Network inbound and outbound traffic packets per second
 - RAM usage percentage
+- Ethernet. Checks if ethernet cable is connected. Full circle indicates yes, hollow circle indicates no.
 - You may toggle any of the above to not show in menu bar
 
 
 <br>
 <br>
-<img width="270" alt="image" src="https://github.com/amirunis/macUNIS/assets/77440128/8c5f1dfe-5a66-4564-8a28-c950dffd6e38">
+<img width="272" alt="image" src="https://github.com/amirunis/macUNIS/assets/77440128/944034a7-2f5f-46f1-8dad-88429a85372b">
 
 <br>
 <br>
@@ -42,5 +43,8 @@ _FEATURES:_
 <br>
 <br>
 <br>
-<img width="292" alt="image" src="https://github.com/amirunis/macUNIS/assets/77440128/017a136f-6067-4620-93a1-6b9ef9efb7c9">
-
+<img width="391" alt="image" src="https://github.com/amirunis/macUNIS/assets/77440128/4060e89d-7c07-490a-b83f-c4e22fee2967">
+<br>
+<br>
+<br>
+<img width="408" alt="image" src="https://github.com/amirunis/macUNIS/assets/77440128/deaedd74-9378-4702-bc3f-00e0dc8cc383">
