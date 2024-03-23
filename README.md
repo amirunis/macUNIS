@@ -6,6 +6,20 @@ macUNIS
 
 
 
+_FEATURES:_
+- Mute microphone. Red dot indicates microphone is muted, green dot indicates it is unmuted.
+- CPU temperature in celius
+- Fan speed in RPM
+- Network inbound and outbound traffic packets per second
+- RAM usage percentage
+- Ethernet. Checks if ethernet cable is connected. Full circle indicates yes, hollow circle indicates no.
+- You may toggle any of the above to not show in menu bar
+
+<br>
+<br>
+
+
+
 _INSTALLATION:_
 
 - Download the .dmg file
@@ -16,15 +30,6 @@ _INSTALLATION:_
 - Enter your mac's Admin password, and enjoy!
 
 
-
-_FEATURES:_
-- Mute microphone. Red dot indicates microphone is muted, green dot indicates it is unmuted.
-- CPU temperature in celius
-- Fan speed in RPM
-- Network inbound and outbound traffic packets per second
-- RAM usage percentage
-- Ethernet. Checks if ethernet cable is connected. Full circle indicates yes, hollow circle indicates no.
-- You may toggle any of the above to not show in menu bar
 
 
 <br>
