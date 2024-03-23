@@ -14,15 +14,13 @@ _FEATURES:_
 - RAM usage percentage
 - Ethernet. Checks if ethernet cable is connected. Full circle indicates yes, hollow circle indicates no.
 - You may toggle any of the above to not show in menu bar
-
+- This works on macOS devices with Intel & M chips.
 <br>
 <br>
 
 
 
 _INSTALLATION:_
-
-- This works on macOS devices with Intel & M-chips.
 - Download the .dmg file
 - Open it
 - Copy the .app package into your mac's Applications directory
